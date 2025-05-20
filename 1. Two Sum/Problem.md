@@ -38,3 +38,8 @@ Output: [0,1]
 
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+
+
+# My solution
+
+[Link](https://leetcode.com/problems/two-sum/submissions/1639548089/)
