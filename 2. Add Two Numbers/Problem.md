@@ -34,3 +34,10 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 2. `0 <= Node.val <= 9`
 3. It is guaranteed that the list represents a number that does not have leading zeros.
 
+
+# My solution
+
+[Link](https://leetcode.com/problems/add-two-numbers/submissions/1640730108/)
+
+
+![alt text](assets/submission.png)
